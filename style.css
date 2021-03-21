@@ -1,0 +1,10 @@
+img{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 8px;
+}
+#larger{
+    width: 200px;
+    height: 200px;
+}
